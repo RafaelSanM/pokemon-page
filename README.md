@@ -1,4 +1,4 @@
-# X-Men project
+# Pokemon project
 
 This is a project to the [Pokemon project page](https://rafaelsanm.github.io/pokemon-page/).  
 
